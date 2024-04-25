@@ -17,4 +17,4 @@ Lagring av billettinformasjon ved hjelp av AJAX POST-forespørsel.
 Henting og visning av lagrede billetter fra serveren ved hjelp av AJAX GET-forespørsel.
 Lagret/kjøpte billetter kan slettes fra systemet ved hjelp av "Slett billetter".
 
-Video: 
+Video: https://youtu.be/mL8HQ8Ma1lE
